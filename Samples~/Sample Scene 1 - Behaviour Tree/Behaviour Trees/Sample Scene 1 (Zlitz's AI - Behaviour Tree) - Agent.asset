@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4753971246724574237
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcd435b1f8b37c149b161e846c6bfe05, type: 3}
+  m_Name: Wander
+  m_EditorClassIdentifier: 
+  m_guid: f657802c-4614-4705-8d22-4c0c530042cd
+  m_decorators: []
+  m_subtree: {fileID: 11400000, guid: 70b3206afaa9df04f8931cba6d9b20f5, type: 2}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8937d5151546bfe458d0e591c501f3cb, type: 3}
+  m_Name: Sample Scene 1 (Zlitz's AI - Behaviour Tree) - Agent
+  m_EditorClassIdentifier: 
+  m_rootNode: {fileID: 6159622602203329377}
+--- !u!114 &6159622602203329377
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5434ef2af9846a4a819c08d3eb58d27, type: 3}
+  m_Name: Root
+  m_EditorClassIdentifier: 
+  m_guid: 9479e4a3-fa86-4018-b0e7-56dd8451707a
+  m_decorators: []
+  m_children:
+  - {fileID: 7972902045333172369}
+  - {fileID: -4753971246724574237}
+  m_collapsed: 0
+--- !u!114 &7972902045333172369
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcd435b1f8b37c149b161e846c6bfe05, type: 3}
+  m_Name: Track
+  m_EditorClassIdentifier: 
+  m_guid: 1df1162c-5927-4143-87d8-4c416d65d4d1
+  m_decorators: []
+  m_subtree: {fileID: 11400000, guid: 67ada176921d32a4e8803abb5128dad0, type: 2}

@@ -4,9 +4,15 @@
 	"displayName": "Zlitz's Package",
 	"description": "Zlitz's Package",
 	"unity": "2022.1",
-	"dependencies": {
-	  
-	},
+	"samples": [
+		{
+			{
+            "displayName": "Sample Behaviour Tree",
+            "description": "Sample scene using behaviour tree",
+            "path": "Samples~/Sample Scene 1 - Behaviour Tree"
+        },
+		}
+	],
 	"keywords": [
 		"utility", "ai"
 	],
