@@ -6,12 +6,10 @@
 	"unity": "2022.1",
 	"samples": [
 		{
-			{
-            "displayName": "Sample Behaviour Tree",
-            "description": "Sample scene using behaviour tree",
-            "path": "Samples~/Sample Scene 1 - Behaviour Tree"
-        },
-		}
+        		"displayName": "Sample Behaviour Tree",
+        		"description": "Sample scene using behaviour tree",
+        		"path": "Samples~/Sample Scene 1 - Behaviour Tree"
+        	}
 	],
 	"keywords": [
 		"utility", "ai"
