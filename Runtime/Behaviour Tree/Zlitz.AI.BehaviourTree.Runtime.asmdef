@@ -1,0 +1,16 @@
+{
+    "name": "Zlitz.AI.BehaviourTree.Runtime",
+    "rootNamespace": "Zlitz.AI.BehaviourTrees.Runtime",
+    "references": [
+        "GUID:72b4a304f65353f448a9fb714b1074a5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

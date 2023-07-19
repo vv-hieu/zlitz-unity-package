@@ -1,0 +1,17 @@
+{
+	"name": "com.zlitz.package",
+	"version": "1.0.0",
+	"displayName": "Zlitz's Package",
+	"description": "Zlitz's Package",
+	"unity": "2022.1",
+	"dependencies": {
+	  
+	},
+	"keywords": [
+		"utility", "ai"
+	],
+	"author": {
+		"name": "Zlitz",
+		"email": "dipper889@gmail.com"
+	}
+}

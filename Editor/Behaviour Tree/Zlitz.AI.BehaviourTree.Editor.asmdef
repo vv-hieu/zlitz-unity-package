@@ -1,0 +1,18 @@
+{
+    "name": "Zlitz.AI.BehaviourTree.Editor",
+    "rootNamespace": "Zlitz.AI.BehaviourTrees.Editor",
+    "references": [
+        "GUID:b8623931052118044a1a1d8fd2962031"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

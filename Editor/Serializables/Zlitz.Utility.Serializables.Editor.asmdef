@@ -1,0 +1,18 @@
+{
+    "name": "Zlitz.Utility.Serializables.Editor",
+    "rootNamespace": "Zlitz.Utility.Serializables.Editor",
+    "references": [
+        "GUID:72b4a304f65353f448a9fb714b1074a5"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
